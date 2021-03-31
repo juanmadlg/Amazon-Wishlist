@@ -1,0 +1,9 @@
+name = "amazon_wishlist"
+uuid = "aa0372cf-5d3a-406e-90df-91b0fb59b7be"
+authors = ["Juanma de Luelmo <juanma.dlg@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Cascadia = "54eefc05-d75b-58de-a785-1a3403f0919f"
+Gumbo = "708ec375-b3d6-5a57-a7ce-8257bf98657a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
